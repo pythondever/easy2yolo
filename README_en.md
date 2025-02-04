@@ -29,7 +29,7 @@ easy2yolo is a user-friendly graphical interface application developed using Pyt
 ```bash
     python main.py
 ```
-##Usage
+## Usage
 - Creating a New Project
 - Open the application.
 - Click on the + button to create a new project.
